@@ -1,3 +1,3 @@
 # choimatthew.github.io
 
-hi wat are you doing
+this is on readme
